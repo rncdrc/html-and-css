@@ -1,0 +1,19 @@
+.main{
+    margin-top: 100px;
+}
+
+.logo-google{
+    display: block;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.search-input{
+    display: block;
+    width: 400px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
